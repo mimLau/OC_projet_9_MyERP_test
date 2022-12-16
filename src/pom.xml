@@ -55,7 +55,7 @@
 
         <!-- ===== Version properties ===== -->
         <log4j.version>2.8.1</log4j.version>
-        <spring.version>5.1.7.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
 
         <!--sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/../target/site/jacoco-merged-test-coverage-report/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths-->
         <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
